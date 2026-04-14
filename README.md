@@ -30,4 +30,4 @@ python main_dic3l.py   -a resnet101   --lr 0.03   --dist-url 'tcp://localhost:10
 *Specific codes will be made public later
 
 # Weights
-*Specific weights will be made public later
+Please contact zlren@xidian.edu.cn for weight requirements.
